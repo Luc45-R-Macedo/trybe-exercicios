@@ -17,7 +17,7 @@ Este diretório contem as atividades propostas pela Trybe desenvolvidas por mim 
 ##### Bloco 3: IntroduÃ§Ã£o - HTML & CSS
 
 - [x] 3-1: _HTML & CSS - Estruturas de pÃ¡gina_
-- [ ] 3-2: _HTML & CSS - Primeiros passos em CSS_
+- [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [ ] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [ ] 3-4: _HTML SemÃ¢ntico_
 - [ ] 3-5: _[Projeto - HTML & CSS]()_
